@@ -1,4 +1,4 @@
-rank,ASN,Name,Country,Online,Offline,months,days,hours,minutes,total_in_minutes
+rank,AS_Number,Name,Country,Online,Offline,months,days,hours,minutes,total_in_minutes
 1,52715,SCORPION TELECOMUNICACAO RIBEIRAO PR ... ,BR,0,1,0,0,0,3,3
 2,13022,STREAMS_GMBH,AT,0,1,0,0,0,5,5
 3,22438,CLEAR-RATE-COMMUNICATIONS,US,0,1,0,0,0,7,7
